@@ -43,7 +43,7 @@ export default function PostcardFlip() {
             <div className="relative w-full h-full">
               <img
                 src="/images/jeffry-postcard.png"
-                alt="Postcard with memories and annotations for Pak Jeffry"
+                alt="Postcard with memories and annotations for Pak Jefry"
                 className="w-full h-full object-cover"
               />
               <div className="absolute bottom-4 right-4 bg-white/90 backdrop-blur-sm rounded-full p-2 shadow-lg">
@@ -74,13 +74,13 @@ export default function PostcardFlip() {
 
               <div className="flex-1 space-y-4">
                 <div className="text-center mb-6">
-                  <h1 className="text-2xl font-bold text-amber-900 mb-2 font-serif">For Pak Jeffry</h1>
+                  <h1 className="text-2xl font-bold text-amber-900 mb-2 font-serif">For Pak Jefry</h1>
                   <p className="text-sm text-amber-600 italic font-serif">From: Farah</p>
                   <div className="w-16 h-0.5 bg-amber-400 mx-auto mt-2"></div>
                 </div>
 
                 <div className="letter-content text-amber-800 font-serif text-base space-y-4">
-                  <p>Hi Pak Jeffry,</p>
+                  <p>Hi Pak Jefry,</p>
 
                   <p>
                     Thank you so much for your time and guidance over the past 3 months.  
