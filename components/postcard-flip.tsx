@@ -42,7 +42,7 @@ export default function PostcardFlip() {
           <div className="absolute inset-0 w-full h-full backface-hidden rounded-2xl shadow-2xl overflow-hidden bg-white border-4 border-white">
             <div className="relative w-full h-full">
               <img
-                src="/images/habibie-postcard.png"
+                src="/images/jeffry-postcard.png"
                 alt="Postcard with memories and annotations for Pak Jeffry"
                 className="w-full h-full object-cover"
               />
